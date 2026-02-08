@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based on Earth [\\-(;\_;)-/](https://www.youtube.com/embed/vvqVdZPnYtA?si=Fg6k5EkRv4QlCvjI&amp;start=750)
-* 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
+* 🖥️  See my portfolio at [\\(@,@)/](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
 * 🚀  I'm currently working on personal GAN projects :3
 * 🧠  I'm studying Software engineering at DPI informatics university :)
@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 💡  I dont believe in luck, just Be Creative & Hardworking 🗿🗿🗿
 
 <a href="https://github.com/parsahmadian" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
 
 <div style="text-align: left;width: 49%">
