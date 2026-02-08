@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based on Earth \\-(;\_;)-/
-* 🖥️  See my portfolio at [\\(@,@)/](https://github.com/parsahmadian)
+* 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
 * 🚀  I'm currently working on small personal projects :)
 * 🧠  I'm studying Software engineering at DPI informatics university :D
