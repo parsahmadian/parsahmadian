@@ -31,25 +31,30 @@ src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-
 
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 
-![Django](https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=ffdd54)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Tensorflow](https://img.shields.io/badge/tensorflow-e0e0e0?style=for-the-badge&logo=tensorflow&logoColor=yellow)
+![Keras](https://img.shields.io/badge/keras-d00808?style=for-the-badge&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-0f225c?style=for-the-badge&logo=pytorch&logoColor=ee5132)
+
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-1e2340?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![MediaPipe](https://img.shields.io/badge/mediapipe-bdbef4?style=for-the-badge&logo=mediapipe&logoColor=0194a5)
+![YOLO](https://img.shields.io/badge/yolo-fffa08?style=for-the-badge)
+
+![OpenCV](https://img.shields.io/badge/opencv-e0e0e0?style=for-the-badge&logo=opencv&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
+
+![Django](https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=ffdd54)
 ![Unittest](https://img.shields.io/badge/Unuttest-61519e?style=for-the-badge&logo=python&logoColor=white) 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
-![Keras](https://img.shields.io/badge/keras-d00808?style=for-the-badge&logo=keras&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/tensorflow-e0e0e0?style=for-the-badge&logo=tensorflow&logoColor=yellow)
-![Pytorch](https://img.shields.io/badge/pytorch-0f225c?style=for-the-badge&logo=pytorch&logoColor=ee5132)
-![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/opencv-e0e0e0?style=for-the-badge&logo=opencv&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikitlearn-1e2340?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-![YOLO](https://img.shields.io/badge/yolo-fffa08?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/mediapipe-bdbef4?style=for-the-badge&logo=mediapipe&logoColor=0194a5)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
