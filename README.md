@@ -12,13 +12,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
 
 
-* 🌍  I'm based on Earth [\\-(;\_;)-/](https://www.youtube.com/embed/vvqVdZPnYtA?si=Fg6k5EkRv4QlCvjI&amp;start=750)
+* 🌍  I'm based on Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
-* 🚀  I'm currently working on personal GAN projects :3
-* 🧠  I'm studying Software engineering at DPI informatics university :)
-* 🤝  I'm ready to cooperate in anything cool :D
-* 💡  I dont believe in luck, just Be Creative & Hardworking 🗿🗿🗿
+* 🚀  I'm currently working on small personal projects :)
+* 🧠  I'm studying Software engineering at DPI informatics university :D
+* 🤝  I'm ready to cooperate in anything cool :P
+* 💡  I dont believe in luck, just Be Creative & Hardworking :3
 
 <a href="https://github.com/parsahmadian" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
