@@ -32,7 +32,6 @@ src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -57,6 +56,7 @@ src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-f37b2d?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/googlecolab-0f2056?style=for-the-badge&logo=googlecolab&logoColor=orange)
