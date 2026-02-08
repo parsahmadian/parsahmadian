@@ -65,4 +65,4 @@ src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-
 
 <br>
 
-<img src='footer.gif' alt="🥇" style='width: 30px;'>
+<img src='footer.gif' alt="🥇" style='width: 300px;'>
