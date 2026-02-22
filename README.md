@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
 
 
-* 🚀  **every day, Learning a new concept in AI from scratch (without interruption, excuse & exception)**
+* 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception )**
 
 * 🧠  I'm studying Software engineering at DPI informatics university :D
 * 🌍  I'm based on Earth \\-(;\_;)-/
