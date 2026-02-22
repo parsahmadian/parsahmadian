@@ -10,14 +10,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 > <h4 style="margin: 10px;">"We have been coded to code coders to code other coders."</h4>
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
-
+<br>
 
 * 🧠  I'm studying Software engineering at DPI informatics university :D
-* 💡  I dont believe in luck, just Be Creative & Hardworking :3
-<space><space>
+* 💡  I dont believe in luck, just Be Creative & Hardworking :3\
 * 🤝  I'm open to work:
 * 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
-* 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com
+* 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com\
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception )**
 
 
