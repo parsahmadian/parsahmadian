@@ -14,11 +14,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🧠  I'm studying Software engineering at DPI informatics university :D
 * 💡  I dont believe in luck, just Be Creative & Hardworking :3
-... 
+
 * 🤝  I'm open to work:
 * 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com
-...
+
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception )**
 
 
