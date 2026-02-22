@@ -12,13 +12,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
 
 
+* 🚀  ** Learning a new concept in artificial intelligence from scratch every day (without interruption, without excuses, and without exceptions) **
+
+* 🧠  I'm studying Software engineering at DPI informatics university :D
 * 🌍  I'm based on Earth \\-(;\_;)-/
+* 🤝  I'm open to work :)
 * 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
-* 🚀  I'm currently working on small personal projects :)
-* 🧠  I'm studying Software engineering at DPI informatics university :D
-* 🤝  I'm ready to cooperate in anything cool :P
-* 💡  I dont believe in luck, just Be Creative & Hardworking :3
+* 💡  I dont believe in luck, just Be Creative & Hardworking :3
 
 <a href="https://github.com/parsahmadian" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
