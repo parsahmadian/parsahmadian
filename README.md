@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception ):**
   <18-feb-2026>
   - ✅ Day1: NumPy Foundations & Vectorized Thinking => arrays, broadcasting, dot product, numerical intuition, ...
-  - ✅ [Day2: Linear Regression => loss functions, MSE, gradient descent, learning rate, convergence, standardization, normalization, ... ](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
+  - ✅ Day2: [Linear Regression](https://github.com/parsahmadian/Linear-Regression-Numpy-only) => loss functions, MSE, gradient descent, learning rate, convergence, standardization, normalization, ...
   - ✅ [Day3: Logistic Regression => sigmoid, BCE, gradient derivation, stability, ...](https://github.com/parsahmadian/Logistic-Regression-Numpy-only)
   - ✅ [Day4: Distance-Based Learning(supervised) => KNN, lazy algorithm, euclidean, manhattan, PCA, dimension reduction, ...](https://github.com/parsahmadian/KNN-Numpy-only)
   - 🔳 [Day5: Distance-Based Learning(unsupervised) => k-means, clustering, centroid updates, scaling effects, K selection, ...]()
