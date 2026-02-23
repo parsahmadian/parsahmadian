@@ -21,12 +21,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception ):**
   
-  - ✅ [Day1: NumPy Foundations & Vectorized Thinking => arrays, broadcasting, dot product, numerical intuition, ... ]
-  - ✅ [Day2: Linear Regression => loss functions, MSE, gradient descent, learning rate, convergence, standardization ](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
+  - ✅ Day1: NumPy Foundations & Vectorized Thinking => arrays, broadcasting, dot product, numerical intuition, ...
+  - ✅ [Day2: Linear Regression => loss functions, MSE, gradient descent, learning rate, convergence, standardization, normalization, ... ](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
   - ✅ [Day3: Logistic Regression => sigmoid, BCE, gradient derivation, stability, ...](https://github.com/parsahmadian/Logistic-Regression-Numpy-only)
-  - ✅ [Day4: Distance-Based Learning(supervised) => KNN, lazy algorithm, Euclidean, Manhattan, PCA, Dimension Reduction, ...](https://github.com/parsahmadian/KNN-Numpy-only)
-  - 🔳 [Day5: Distance-Based Learning(unsupervised) => K-Means, clustering, centroid updates, scaling effects, K selection, ...]()
-
+  - ✅ [Day4: Distance-Based Learning(supervised) => KNN, lazy algorithm, euclidean, manhattan, PCA, dimension reduction, ...](https://github.com/parsahmadian/KNN-Numpy-only)
+  - 🔳 [Day5: Distance-Based Learning(unsupervised) => k-means, clustering, centroid updates, scaling effects, K selection, ...]()
+  - 🔳 [Day6: Optimization Deep Dive => MSE vs MAE, squared error behavior, outliers, step size, convergence vs speed, ...]()
+  - 🔳 [Day7: Generalization Control in Machine Learning => Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition ]()
+  - 🔳 [Day8: Dimensionality Reduction from Linear Algebra => PCA, variance maximization, eigenvectors, feature compression ]()
+  - 🔳 [Day9: Model Evaluation & Decision Metrics => Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis ]()
+  - 🔳 [Day10: Neural Networks from Zero => Perceptron, forward pass, backpropagation, gradient flow ]()
+  - 🔳 [Day11: Optimization Algorithms in Practice => SGD, Momentum, Adam, convergence speed vs stability ]()
+  - 🔳 [Day12: End-to-End Machine Learning System Design => Data pipeline, training loop, evaluation, failure modes ]()
+  - 🔳 ***It goes on forever...***
 
 ---
 
