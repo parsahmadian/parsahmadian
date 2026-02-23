@@ -21,11 +21,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception )**
   
-[x][Day1: NumPy Foundations & Vectorized Thinking => arrays, broadcasting, dot product, numerical intuition, ... ]
-[x][Day2: Linear Regression => loss functions, MSE, gradient descent, learning rate, convergence, standardization ](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
-[x][Day3: Logistic Regression => sigmoid, BCE, gradient derivation, stability, ...](https://github.com/parsahmadian/Logistic-Regression-Numpy-only)
-[x][Day4: Distance-Based Learning(supervised) => KNN, lazy algorithm, Euclidean, Manhattan, PCA, Dimension Reduction, ...](https://github.com/parsahmadian/KNN-Numpy-only)
-[ ][Day5: Distance-Based Learning(unsupervised) => K-Means, clustering, centroid updates, scaling effects, K selection, ...]()
+[x] [Day1: NumPy Foundations & Vectorized Thinking => arrays, broadcasting, dot product, numerical intuition, ... ]
+[x] [Day2: Linear Regression => loss functions, MSE, gradient descent, learning rate, convergence, standardization ](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
+[x] [Day3: Logistic Regression => sigmoid, BCE, gradient derivation, stability, ...](https://github.com/parsahmadian/Logistic-Regression-Numpy-only)
+[x] [Day4: Distance-Based Learning(supervised) => KNN, lazy algorithm, Euclidean, Manhattan, PCA, Dimension Reduction, ...](https://github.com/parsahmadian/KNN-Numpy-only)
+[ ] [Day5: Distance-Based Learning(unsupervised) => K-Means, clustering, centroid updates, scaling effects, K selection, ...]()
 
 
 ---
