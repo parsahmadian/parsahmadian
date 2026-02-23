@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com
 
-* 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception )**
+* 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception ):**
   
   - ✅ [Day1: NumPy Foundations & Vectorized Thinking => arrays, broadcasting, dot product, numerical intuition, ... ]
   - ✅ [Day2: Linear Regression => loss functions, MSE, gradient descent, learning rate, convergence, standardization ](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
