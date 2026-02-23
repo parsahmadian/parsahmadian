@@ -33,7 +33,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   - 🔳 Day10: [Neural Networks from Zero]() => Perceptron, forward pass, backpropagation, gradient flow
   - 🔳 Day11: [Optimization Algorithms in Practice]() => SGD, Momentum, Adam, convergence speed vs stability
   - 🔳 Day12: [End-to-End Machine Learning System Design]() => Data pipeline, training loop, evaluation, failure modes
-  - 🔳 ***It goes on forever...***
+  - 🔳 Day13: ***It goes on forever...***
 
 ---
 
