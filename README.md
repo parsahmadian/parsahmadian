@@ -12,11 +12,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
 <br>
 
-* 🧠  I'm studying Software engineering at DPI informatics university :D
-* 🤝  **I'm open to work:**
-* 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
-* 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com
-* 💡  I dont believe in luck, just Be Creative & Hardworking :3
+* 🧠 I'm studying Software Engineering at DPI Informatics University :D  
+* 🤝 I'm open to work  
+* 🖥️ Check out my portfolio on [Github](https://github.com/parsahmadian)
+* 💬 You can contact me on [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or at p3ahmadian@gmail.com  
+* 💡 I don't believe in luck — just be creative & hardworking :3
 
 <br>
 <br>
