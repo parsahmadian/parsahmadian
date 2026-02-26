@@ -30,20 +30,20 @@ Learning a new concept in AI **every day from scratch** (without interruption, e
 
 | Day | Topic | Key Concepts |
 |-----|-------|--------------|
-| ✅ Day 1 | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
-| ✅ Day 2 | Linear Regression | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
-| ✅ Day 3 | Logistic Regression | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
-| ✅ Day 4 | Distance-Based Learning (Supervised) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
-| ✅ Day 5 | Distance-Based Learning (Unsupervised) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
-| ✅ Day 6 | Numpy only Vs. Scikit-Learn | OOP (class-based algorithms), performance, numerical stability, API design, ... |
-| 🔳 Day 7 | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
-| 🔳 Day 8 | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
-| 🔳 Day 9 | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
-| 🔳 Day 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
-| 🔳 Day 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
-| 🔳 Day 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
-| 🔳 Day 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
-| 🔳 Day 14 | …It goes on forever | Continuous learning mindset |
+| ✅ 1 | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
+| ✅ 2 | [Linear Regression](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
+| ✅ 3 | Logistic Regression | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
+| ✅ 4 | Distance-Based Learning (Supervised) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
+| ✅ 5 | Distance-Based Learning (Unsupervised) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
+| ✅ 6 | Numpy only Vs. Scikit-Learn | OOP (class-based algorithms), performance, numerical stability, API design, ... |
+| 🔳 7 | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
+| 🔳 8 | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
+| 🔳 9 | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
+| 🔳 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
+| 🔳 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
+| 🔳 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
+| 🔳 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
+| 🔳 14 | …It goes on forever | Continuous learning mindset |
 
 <!--
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception ):**
