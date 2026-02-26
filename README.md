@@ -19,6 +19,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com
 
+<br>
+<br>
 
 # 🚀 Daily AI Learning Journal (Since 18-Feb-2026)
 
