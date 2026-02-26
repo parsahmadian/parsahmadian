@@ -31,8 +31,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | ✅ | 1  | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
 | ✅ | 2  | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
 | ✅ | 3  | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
-| ✅ | 4  | [Distance-Based Learning(supervised) 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
-| ✅ | 5  | [Distance-Based Learning(unsupervised) 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
+| ✅ | 4  | [Distance-Based Learning1 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, supervised-learning, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
+| ✅ | 5  | [Distance-Based Learning2 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, unsupervised-learning, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
 | ✅ | 6  | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | OOP (class-based algorithms), performance, numerical stability, API design, ... |
 | 🔳 | 7  | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
 | 🔳 | 8  | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
