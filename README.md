@@ -63,7 +63,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 
 
-<div style="text-align: left;width: 49%">
+<div style="text-align: center; width: 49%">
 <h2 align="center"> Skills 🛠</h2>
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
