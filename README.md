@@ -19,6 +19,33 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Github](https://github.com/parsahmadian)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/) or p3ahmadian@gmail.com
 
+
+# 🚀 Daily AI Learning Journal (Since 18-Feb-2026)
+
+Learning a new concept in AI **every day from scratch** (without interruption, excuse & exception).
+
+---
+
+## 📅 Progress
+
+| Day | Topic | Key Concepts |
+|-----|-------|--------------|
+| ✅ Day 1 | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
+| ✅ Day 2 | Linear Regression | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
+| ✅ Day 3 | Logistic Regression | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
+| ✅ Day 4 | Distance-Based Learning (Supervised) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
+| ✅ Day 5 | Distance-Based Learning (Unsupervised) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
+| ✅ Day 6 | Numpy only Vs. Scikit-Learn | OOP (class-based algorithms), performance, numerical stability, API design, ... |
+| 🔳 Day 7 | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
+| 🔳 Day 8 | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
+| 🔳 Day 9 | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
+| 🔳 Day 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
+| 🔳 Day 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
+| 🔳 Day 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
+| 🔳 Day 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
+| 🔳 Day 14 | …It goes on forever | Continuous learning mindset |
+
+<!--
 * 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception ):**
   <18-feb-2026>
   - ✅ Day1: &nbsp;&nbsp;NumPy Foundations & Vectorized Thinking => arrays(vector-matrix-tensor), broadcasting, dot product(Matrix mult), ...
@@ -35,6 +62,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   - 🔳 Day12: [Optimization Algorithms in Practice]() => SGD, Momentum, Adam, convergence speed vs stability
   - 🔳 Day13: [End-to-End Machine Learning System Design]() => Data pipeline, training loop, evaluation, failure modes
   - 🔳 Day14: ***It goes on forever...***
+-->
 
 <br>
 <br>
@@ -51,6 +79,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsahmadian&theme=dark&background=000000&border=A855F7&fire=FBBF24">
   <!-- <img src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000&cacheSeconds=300"> -->
 <!-- </div> -->
+
+<br>
+
 
 <div style="text-align: left;width: 49%">
 <h2 align="center"> Skills 🛠</h2>
