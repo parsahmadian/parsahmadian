@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 🚀 Daily AI Learning Journal (Since 18-Feb-2026)
 
-***Learning a new concept in AI **every day from scratch** (without interruption, excuse & exception).***
+> ***Learning a new concept in AI **every day from scratch** (without interruption, excuse & exception).***
 
 ## 📅 Progress
 
@@ -41,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | 🔳 | 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
 | 🔳 | 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
 | 🔳 | 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
-| 🔳 | 14 | ***…It goes on forever*** | ***Continuous learning mindset*** |
+| 🔳 | 14 | ***It goes on forever…*** | ***Continuous learning mindset*** |
 
 <br>
 <br>
