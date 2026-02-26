@@ -39,8 +39,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 
 <div>
-  <a src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000"></a>
-  <!-- <img src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000"> -->
+  <!-- <a src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000"></a> -->
+  <img src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000&cacheSeconds=300">
 </div>
 
 <div style="text-align: left;width: 49%">
