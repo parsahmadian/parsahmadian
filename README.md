@@ -99,9 +99,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-f37b2d?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/googlecolab-0f2056?style=for-the-badge&logo=googlecolab&logoColor=orange)
-
+ز
 </div>
 <br>
+
+<div style="text-align: center; width: 49%">
 
 <h2 align="center">Skills 🛠</h2>
 
@@ -123,8 +125,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   ![Pytorch](https://img.shields.io/badge/pytorch-0f225c?style=for-the-badge&logo=pytorch&logoColor=ee5132)
   
   <br>
-  ... <!-- ادامه Badgeها به همین شکل -->
 </p>
+</div>
 
 
 <h2 align="center" >MySocial Media 👽</h2>
