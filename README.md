@@ -30,15 +30,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 |     | Day | Topic | Key Concepts |
 |:---:|:---:|-------|--------------|
-| ✅ | 1  | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
-| ✅ | 2  | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
-| ✅ | 3  | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
-| ✅ | 4  | [Distance-Based Learning1 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, supervised-learning, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
-| ✅ | 5  | [Distance-Based Learning2 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, unsupervised-learning, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
-| ✅ | 6  | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | OOP (class-based algorithms), performance, numerical stability, API design, ... |
-| 🔳 | 7  | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
-| 🔳 | 8  | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
-| 🔳 | 9  | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
+| ✅ | 01  | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
+| ✅ | 02  | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, convergence, standardization, normalization, ... |
+| ✅ | 03  | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
+| ✅ | 04  | [Distance-Based Learning1 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, supervised-learning, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
+| ✅ | 05  | [Distance-Based Learning2 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, unsupervised-learning, clustering, centroid updates, scaling effects, K selection, elbow method, objective function(inertia) random init, ... |
+| ✅ | 06  | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | Scikit-learn, train_test_split, data leakage, OOP (class-based algorithms), performance, numerical stability, API design, ... |
+| 🔳 | 07  | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
+| 🔳 | 08  | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
+| 🔳 | 09  | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
 | 🔳 | 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
 | 🔳 | 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
 | 🔳 | 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
@@ -48,7 +48,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <br>
 <br>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsahmadian&theme=dark&background=000000&border=A855F7&fire=FBBF24">
