@@ -26,22 +26,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📅 Progress
 
-| Day | Topic | Key Concepts |
-|-----|-------|--------------|
-| ✅ 1 | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
-| ✅ 2 | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
-| ✅ 3 | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
-| ✅ 4 | [Distance-Based Learning(supervised) 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
-| ✅ 5 | [Distance-Based Learning(unsupervised) 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
-| ✅ 6 | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | OOP (class-based algorithms), performance, numerical stability, API design, ... |
-| 🔳 7 | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
-| 🔳 8 | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
-| 🔳 9 | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
-| 🔳 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
-| 🔳 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
-| 🔳 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
-| 🔳 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
-| 🔳 14 | ***…It goes on forever*** | ***Continuous learning mindset*** |
+|     | Day | Topic | Key Concepts |
+|:---:|:---:|-------|--------------|
+| ✅ | 1  | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
+| ✅ | 2  | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
+| ✅ | 3  | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
+| ✅ | 4  | [Distance-Based Learning(supervised) 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
+| ✅ | 5  | [Distance-Based Learning(unsupervised) 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
+| ✅ | 6  | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | OOP (class-based algorithms), performance, numerical stability, API design, ... |
+| 🔳 | 7  | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
+| 🔳 | 8  | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
+| 🔳 | 9  | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
+| 🔳 | 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
+| 🔳 | 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
+| 🔳 | 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
+| 🔳 | 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
+| 🔳 | 14 | ***…It goes on forever*** | ***Continuous learning mindset*** |
 
 <br>
 <br>
