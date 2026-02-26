@@ -41,12 +41,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 
 
-<center>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parsahmadian&theme=dark&background=000000&border=A855F7&fire=FBBF24)
-</center>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsahmadian&theme=dark&background=000000&border=A855F7&fire=FBBF24">
+</p>
 
 
 <!-- <div>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parsahmadian&theme=dark&background=000000&border=A855F7&fire=FBBF24)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsahmadian&theme=dark&background=000000&border=A855F7&fire=FBBF24">
   <!-- <img src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000&cacheSeconds=300"> -->
 <!-- </div> -->
