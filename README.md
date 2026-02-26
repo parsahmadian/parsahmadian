@@ -40,8 +40,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br>
 
-<img src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" />
-
+<dir>
+  <img src="https://img.shields.io/github/followers/parsahmadian?logo=github&style=for-the-badge&color=a855f7&labelColor=000000">
+</dir>
 
 <div style="text-align: left;width: 49%">
 <h2 align="center"> Skills 🛠</h2>
