@@ -63,7 +63,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 
 
-<div style="text-align: center">
+<div style="text-align: center; width: 49%">
 <h2 align="center"> Skills 🛠</h2>
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -102,6 +102,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </div>
 <br>
+
+<h2 align="center">Skills 🛠</h2>
+
+<p align="center">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
+  <br>
+  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  <br>
+  ![Tensorflow](https://img.shields.io/badge/tensorflow-e0e0e0?style=for-the-badge&logo=tensorflow&logoColor=yellow)
+  ![Keras](https://img.shields.io/badge/keras-d00808?style=for-the-badge&logo=keras&logoColor=white)
+  ![Pytorch](https://img.shields.io/badge/pytorch-0f225c?style=for-the-badge&logo=pytorch&logoColor=ee5132)
+  <br>
+  ... <!-- ادامه Badgeها به همین شکل -->
+</p>
+
 
 <h2 align="center" >MySocial Media 👽</h2>
 <p align="center">
