@@ -22,20 +22,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 🚀 Daily AI Learning Journal (Since 18-Feb-2026)
 
-Learning a new concept in AI **every day from scratch** (without interruption, excuse & exception).
-
----
+***Learning a new concept in AI **every day from scratch** (without interruption, excuse & exception).***
 
 ## 📅 Progress
 
 | Day | Topic | Key Concepts |
 |-----|-------|--------------|
 | ✅ 1 | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
-| ✅ 2 | [Linear Regression](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
-| ✅ 3 | Logistic Regression | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
-| ✅ 4 | Distance-Based Learning (Supervised) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
-| ✅ 5 | Distance-Based Learning (Unsupervised) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
-| ✅ 6 | Numpy only Vs. Scikit-Learn | OOP (class-based algorithms), performance, numerical stability, API design, ... |
+| ✅ 2 | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, standardization, normalization, ... |
+| ✅ 3 | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
+| ✅ 4 | [Distance-Based Learning(supervised) 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
+| ✅ 5 | [Distance-Based Learning(unsupervised) 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, clustering, centroid updates, scaling effects, K selection, elbow method, random init, ... |
+| ✅ 6 | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | OOP (class-based algorithms), performance, numerical stability, API design, ... |
 | 🔳 7 | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
 | 🔳 8 | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
 | 🔳 9 | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
@@ -43,26 +41,7 @@ Learning a new concept in AI **every day from scratch** (without interruption, e
 | 🔳 11 | Neural Networks from Zero | Perceptron, forward pass, backpropagation, gradient flow |
 | 🔳 12 | Optimization Algorithms in Practice | SGD, Momentum, Adam, convergence speed vs stability |
 | 🔳 13 | End-to-End ML System Design | Data pipeline, training loop, evaluation, failure modes |
-| 🔳 14 | …It goes on forever | Continuous learning mindset |
-
-<!--
-* 🚀  **every day, Learning a new concept in AI from scratch ( without interruption, excuse & exception ):**
-  <18-feb-2026>
-  - ✅ Day1: &nbsp;&nbsp;NumPy Foundations & Vectorized Thinking => arrays(vector-matrix-tensor), broadcasting, dot product(Matrix mult), ...
-  - ✅ Day2: &nbsp;&nbsp;[Linear Regression](https://github.com/parsahmadian/Linear-Regression-Numpy-only) => regression, loss functions, MSE, GD, lr, convergence, standardization, normalization, ...
-  - ✅ Day3: &nbsp;&nbsp;[Logistic Regression](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) => classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ...
-  - ✅ Day4: &nbsp;&nbsp;[Distance-Based Learning(supervised)](https://github.com/parsahmadian/KNN-Numpy-only) => KNN, lazy algorithm, euclidean, manhattan, PCA, dimension reduction, outlier data/loss, ...
-  - ✅ Day5: &nbsp;&nbsp;[Distance-Based Learning(unsupervised)](https://github.com/parsahmadian/K-Means-Numpy-only) => K-Means, clustering, centroid updates, scaling effects, K selection, elbow, random init, ...
-  - ✅ Day6: &nbsp;&nbsp;[Numpy only Vs. Sklearn](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) => Scikit-Learn, OOP(Class-based algorithms), performance, numerical stability, API design, ...
-  - 🔳 Day7: &nbsp;&nbsp;[Optimization Deep Dive]() => MSE vs MAE, squared error behavior, outliers, step size, convergence vs speed, ...
-  - 🔳 Day8: &nbsp;&nbsp;[Generalization Control in ML]() => Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition
-  - 🔳 Day9: &nbsp;&nbsp;[Dimensionality Reduction from Linear Algebra]() => PCA, variance maximization, eigenvectors, feature compression
-  - 🔳 Day10: &nbsp;&nbsp;[Model Evaluation & Decision Metrics]() => Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis
-  - 🔳 Day11: [Neural Networks from Zero]() => Perceptron, forward pass, backpropagation, gradient flow
-  - 🔳 Day12: [Optimization Algorithms in Practice]() => SGD, Momentum, Adam, convergence speed vs stability
-  - 🔳 Day13: [End-to-End Machine Learning System Design]() => Data pipeline, training loop, evaluation, failure modes
-  - 🔳 Day14: ***It goes on forever...***
--->
+| 🔳 14 | ***…It goes on forever*** | ***Continuous learning mindset*** |
 
 <br>
 <br>
