@@ -28,8 +28,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📅 Progress
 
-|     | Day | Topic | Key Concepts |
-|:---:|:---:|-------|--------------|
+|     | Day | Topic        | Key Concepts |
+|:---:|:---:|--------------|--------------|
 | ✅ | 01  | NumPy Foundations & Vectorized Thinking | arrays (vector-matrix-tensor), broadcasting, dot product, ... |
 | ✅ | 02  | [Linear Regression 🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only) | regression, loss functions, MSE, gradient descent, learning rate, convergence, standardization, normalization, ... |
 | ✅ | 03  | [Logistic Regression 🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only) | classification, sigmoid, BCE, gradient derivation, stability, NaN/overflow, ... |
