@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 | ✅ | 04  | [Distance-Based Learning1 🔗](https://github.com/parsahmadian/KNN-Numpy-only) | KNN, supervised-learning, lazy algorithm, Euclidean & Manhattan, PCA, dimension reduction, outliers, ... |
 | ✅ | 05  | [Distance-Based Learning2 🔗](https://github.com/parsahmadian/K-Means-Numpy-only) | K-Means, unsupervised-learning, clustering, centroid updates, scaling effects, K selection, elbow method, objective function(inertia) random init, ... |
 | ✅ | 06  | [Numpy only Vs. Sklearn 🔗](https://github.com/parsahmadian/ML-Algorithms-Numpy-only-Vs-Sklearn) | Scikit-learn, train_test_split, data leakage, OOP (class-based algorithms), performance, numerical stability, API design, ... |
-| 🔳 | 07  | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
+| ✅ | 07  | Optimization Deep Dive | MSE vs MAE, squared error, outliers, step size, convergence vs speed, ... |
 | 🔳 | 08  | Generalization Control in ML | Bias–Variance tradeoff, L1/L2 Regularization, weight shrinkage intuition |
 | 🔳 | 09  | Dimensionality Reduction | PCA, variance maximization, eigenvectors, feature compression |
 | 🔳 | 10 | Model Evaluation & Metrics | Accuracy pitfalls, precision, recall, F1-score, ROC curve analysis |
